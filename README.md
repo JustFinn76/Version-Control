@@ -4,4 +4,4 @@ Group Members:
 2. Finn Snyder
 3. Caleb Mwaniki
 # Program Description
-Out program prompts the user for their name, then their height in inches, then converts their height to feet.
+Essentially our program prompts the user for their name, then their height in inches, then converts their height to feet.
